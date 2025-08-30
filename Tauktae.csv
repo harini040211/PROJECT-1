@@ -1,0 +1,26 @@
+Date,Time,Type,Wind,Pressure
+May 19,06:00,Low Pressure Area,55,
+May 18,18:00,Low Pressure Area,95,
+May 18,06:00,Low Pressure Area,150,
+May 17,18:00,Extremely Severe Cyclonic Storm,205,942
+May 17,12:00,Extremely Severe Cyclonic Storm,205,949
+May 17,06:00,Extremely Severe Cyclonic Storm,215,939
+May 17,00:00,Extremely Severe Cyclonic Storm,220,935
+May 16,18:00,Extremely Severe Cyclonic Storm,205,941
+May 16,12:00,Extremely Severe Cyclonic Storm,185,952
+May 16,06:00,Very Severe Cyclonic Storm,165,962
+May 16,00:00,Very Severe Cyclonic Storm,140,972
+May 15,18:00,Severe Cyclonic Storm,120,976
+May 15,12:00,Severe Cyclonic Storm,110,979
+May 15,06:00,Severe Cyclonic Storm,100,986
+May 15,00:00,Cyclonic Storm,95,989
+May 14,18:00,Cyclonic Storm,85,989
+May 14,12:00,Cyclonic Storm,75,996
+May 14,06:00,Cyclonic Storm,75,998
+May 14,00:00,Depression,55,997
+May 13,18:00,Depression,55,1000
+May 13,12:00,Depression,55,1000
+May 13,06:00,Depression,45,1002
+May 13,00:00,Disturbance,35,1004
+May 12,18:00,Disturbance,35,1005
+May 12,12:00,Depression,45,1004
